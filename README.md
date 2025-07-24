@@ -1,3 +1,13 @@
+# 📦 Download & Support
+If you enjoy this project, consider supporting me with a donation or a kind word.
+👉 <a href="https://irmaosver-ehotmailcom.itch.io/eliminate-down-remix/purchase">
+<img src="https://img.shields.io/badge/Download_on_Itch.Io-fa5c5c" width="215" />
+</a>
+
+Feedback is always welcome and helps me keep building better hacks.
+
+---
+
 # Eliminate Down Remix Mode - ROM Hack for Sega Mega Drive
 
 This ROM hack introduces a wide range of enhancements and a brand-new **Remix Mode**, all accessible through the in-game options menu. Designed for both casual players and hardcore shooter fans, this aims to be the **definitive version** of *Eliminate Down*.
@@ -64,12 +74,3 @@ This ROM hack introduces a wide range of enhancements and a brand-new **Remix Mo
 Apply the patch using this tool:  
 👉 https://www.romhacking.net/patch/
 
----
-
-## 📦 Download & Support
-If you enjoy this project, consider supporting me with a donation or a kind word.
-👉 <a href="https://irmaosver-ehotmailcom.itch.io/eliminate-down-remix/purchase">
-<img src="https://img.shields.io/badge/Download_on_Itch.Io-fa5c5c" width="215" />
-</a>
-
-Feedback is always welcome and helps me keep building better hacks.
