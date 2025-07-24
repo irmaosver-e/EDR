@@ -1,6 +1,7 @@
 # 📦 Download & Support
 If you enjoy this project, consider supporting me with a donation or a kind word.
-👉 <a href="https://irmaosver-ehotmailcom.itch.io/eliminate-down-remix/purchase">
+
+<a href="https://irmaosver-ehotmailcom.itch.io/eliminate-down-remix/purchase">
 <img src="https://img.shields.io/badge/Download_on_Itch.Io-fa5c5c" width="215" />
 </a>
 
