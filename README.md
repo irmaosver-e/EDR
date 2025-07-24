@@ -66,15 +66,8 @@ Apply the patch using this tool:
 
 ---
 
-## 📦 Download
+## 📦 Download & Support
+If you enjoy this project, consider supporting me with a donation or a kind word.
+👉 [Itch.Io](https://irmaosver-ehotmailcom.itch.io/eliminate-down-remix/purchase)
 
-Grab the latest patch and documentation from the GitHub releases page:  
-👉 [GitHub Repository](https://github.com/irmaosver-e)
-
----
-
-## 🙌 Support
-
-If you enjoy this project, consider supporting me with a donation or a kind word. Feedback is always welcome and helps me keep building better hacks.
-
----
+Feedback is always welcome and helps me keep building better hacks.
